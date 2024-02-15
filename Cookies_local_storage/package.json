@@ -1,0 +1,19 @@
+{
+    "name": "cookies-local-storage",
+    "version": "1.0.0",
+    "description": "Demo app for cookies and local storage",
+    "main": "index.js",
+    "scripts": {
+      "start": "node_modules/.bin/webpack-dev-server",
+      "build": "webpack"
+    },
+    "dependencies": {
+      "webpack": "^5.76.0",
+      "webpack-cli": "^4.14.0",
+      "webpack-dev-server": "^4.10.2"
+    },
+    "devDependencies": {
+      "live-server": "^2.3.2" 
+    }
+  }
+  

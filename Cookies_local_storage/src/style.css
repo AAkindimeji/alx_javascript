@@ -1,0 +1,19 @@
+/* Add basic styling to match the image */
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#user-form {
+    margin-bottom: 20px;
+}
+
+#cookie-messages {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+/* Add more styles as needed */
